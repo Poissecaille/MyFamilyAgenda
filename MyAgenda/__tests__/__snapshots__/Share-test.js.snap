@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Share component 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "column",
+      "height": "100%",
+      "justifyContent": "flex-end",
+      "position": "absolute",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignSelf": "flex-end",
+        "backgroundColor": "#C8D6F6",
+        "borderRadius": 20,
+        "height": 60,
+        "justifyContent": "center",
+        "opacity": 1,
+        "textAlign": "center",
+        "width": 60,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../src/assets/share2.png",
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "center",
+          "aspectRatio": 1,
+          "height": "50%",
+          "width": "50%",
+        }
+      }
+    />
+  </View>
+</View>
+`;

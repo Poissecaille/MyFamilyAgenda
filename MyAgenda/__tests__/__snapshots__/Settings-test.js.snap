@@ -1,0 +1,307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test SettingsScreen component 1`] = `
+<RCTSafeAreaView
+  color="#4A6EBF"
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#4A6EBF",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#6200ee",
+            "borderRadius": 90,
+            "height": 180,
+            "width": 180,
+          },
+          Object {
+            "alignItems": "center",
+            "justifyContent": "center",
+          },
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessibilityElementsHidden={true}
+        allowFontScaling={false}
+        importantForAccessibility="no-hide-descendants"
+        pointerEvents="none"
+        selectable={false}
+        style={
+          Array [
+            Object {
+              "color": "#ffffff",
+              "fontSize": 108,
+            },
+            Array [
+              Object {
+                "lineHeight": 108,
+                "transform": Array [
+                  Object {
+                    "scaleX": 1,
+                  },
+                ],
+              },
+              Object {
+                "backgroundColor": "transparent",
+              },
+            ],
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        󰋦
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginTop": 16,
+          },
+        ]
+      }
+      variant="marginTop:16px"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#C8D6F6",
+              "flexWrap": "wrap",
+              "fontFamily": "Lato_400Regular",
+              "fontSize": 16,
+              "fontWeight": "500",
+              "marginBottom": 0,
+              "marginTop": 0,
+            },
+          ]
+        }
+        variant="label"
+      >
+        test@gmail.com
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "marginVertical": 8,
+        },
+        undefined,
+      ]
+    }
+    theme={
+      Object {
+        "animation": Object {
+          "scale": 1,
+        },
+        "colors": Object {
+          "accent": "#03dac4",
+          "backdrop": "rgba(0, 0, 0, 0.5)",
+          "background": "#f6f6f6",
+          "disabled": "rgba(0, 0, 0, 0.26)",
+          "error": "#B00020",
+          "notification": "#f50057",
+          "onSurface": "#000000",
+          "placeholder": "rgba(0, 0, 0, 0.54)",
+          "primary": "#6200ee",
+          "surface": "#ffffff",
+          "text": "#000000",
+        },
+        "dark": false,
+        "fonts": Object {
+          "light": Object {
+            "fontFamily": "System",
+            "fontWeight": "300",
+          },
+          "medium": Object {
+            "fontFamily": "System",
+            "fontWeight": "500",
+          },
+          "regular": Object {
+            "fontFamily": "System",
+            "fontWeight": "400",
+          },
+          "thin": Object {
+            "fontFamily": "System",
+            "fontWeight": "100",
+          },
+        },
+        "roundness": 4,
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        Object {
+          "disabled": true,
+        }
+      }
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          false,
+          Array [
+            Object {
+              "padding": 8,
+            },
+            Array [
+              Object {
+                "paddingBottom": 16,
+                "paddingLeft": 16,
+                "paddingRight": 16,
+                "paddingTop": 16,
+              },
+              Object {
+                "padding": 16,
+              },
+            ],
+          ],
+        ]
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          pointerEvents="box-none"
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "height": 40,
+                "justifyContent": "center",
+                "margin": 8,
+                "width": 40,
+              },
+              Object {
+                "marginLeft": 0,
+                "marginRight": 16,
+                "marginVertical": 0,
+              },
+            ]
+          }
+        >
+          <Text
+            accessibilityElementsHidden={true}
+            allowFontScaling={false}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            selectable={false}
+            style={
+              Array [
+                Object {
+                  "color": "black",
+                  "fontSize": 24,
+                },
+                Array [
+                  Object {
+                    "lineHeight": 24,
+                    "transform": Array [
+                      Object {
+                        "scaleX": 1,
+                      },
+                    ],
+                  },
+                  Object {
+                    "backgroundColor": "transparent",
+                  },
+                ],
+                Object {
+                  "fontFamily": "Material Design Icons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            󰠚
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {
+                "marginVertical": 6,
+                "paddingLeft": 8,
+              },
+              Object {
+                "flex": 1,
+                "justifyContent": "center",
+              },
+            ]
+          }
+        >
+          <Text
+            numberOfLines={1}
+            selectable={false}
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "System",
+                  "fontWeight": "400",
+                },
+                Object {
+                  "textAlign": "left",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "rgba(0, 0, 0, 0.87)",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+            Logout
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

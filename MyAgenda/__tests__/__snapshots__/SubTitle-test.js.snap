@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test SubTitle component 1`] = `
+<Text
+  idTest="subtitle"
+  style={
+    Array [
+      Object {
+        "color": "#6D8CD3",
+        "fontFamily": "PlayfairDisplay-SemiBold",
+        "fontSize": 15,
+        "textAlign": "left",
+      },
+    ]
+  }
+>
+  this is a test
+</Text>
+`;

@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test default Spacer component 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "marginTop": 4,
+      },
+    ]
+  }
+  variant="marginTop:4px"
+/>
+`;
+
+exports[`test large Spacer component 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "marginBottom": 16,
+      },
+    ]
+  }
+  variant="marginBottom:16px"
+/>
+`;
+
+exports[`test medium Spacer component 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "marginLeft": 8,
+      },
+    ]
+  }
+  variant="marginLeft:8px"
+/>
+`;

@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test caption Text component 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#C8D6F6",
+        "flexWrap": "wrap",
+        "fontFamily": "Oswald_400Regular",
+        "fontSize": 12,
+        "fontWeight": "700",
+        "marginBottom": 0,
+        "marginTop": 0,
+      },
+    ]
+  }
+  variant="caption"
+/>
+`;
+
+exports[`test default Text component 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#C8D6F6",
+        "flexWrap": "wrap",
+        "fontFamily": "Oswald_400Regular",
+        "fontSize": 16,
+        "fontWeight": "400",
+        "marginBottom": 0,
+        "marginTop": 0,
+      },
+    ]
+  }
+  variant="body"
+/>
+`;
+
+exports[`test error Text component 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "red",
+        "flexWrap": "wrap",
+        "fontFamily": "Oswald_400Regular",
+        "fontWeight": "400",
+        "marginBottom": 0,
+        "marginTop": 0,
+      },
+    ]
+  }
+  variant="error"
+/>
+`;
+
+exports[`test hint Text component 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#C8D6F6",
+        "flexWrap": "wrap",
+        "fontFamily": "Oswald_400Regular",
+        "fontSize": 16,
+        "fontWeight": "400",
+        "marginBottom": 0,
+        "marginTop": 0,
+      },
+    ]
+  }
+  variant="hint"
+/>
+`;
+
+exports[`test label Text component 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#C8D6F6",
+        "flexWrap": "wrap",
+        "fontFamily": "Lato_400Regular",
+        "fontSize": 16,
+        "fontWeight": "500",
+        "marginBottom": 0,
+        "marginTop": 0,
+      },
+    ]
+  }
+  variant="label"
+/>
+`;

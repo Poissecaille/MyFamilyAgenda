@@ -1,28 +1,11 @@
-- [Typescript project generation](#typescript-project-generation)
-    - [Install typescript types](#install-typescript-types)
-- [Classic project generation](#classic-project-generation)
-- [Setup](#setup)
-  - [Install vscode cookies:](#install-vscode-cookies)
-  - [Android emulator AVD installation vscode/linux](#android-emulator-avd-installation-vscodelinux)
-  - [Android - SDK Tools & Platform Tools](#android---sdk-tools--platform-tools)
-  - [Android 30 plateform installation](#android-30-plateform-installation)
-  - [Install default system image for platform android-30](#install-default-system-image-for-platform-android-30)
-  - [Install Google Play Services system image](#install-google-play-services-system-image)
-  - [Installation Checking](#installation-checking)
-  - [Emulator and build tools installation](#emulator-and-build-tools-installation)
-  - [AVD configuration](#avd-configuration)
-  - [AVD launch](#avd-launch)
-  - [Developpement](#developpement)
-  - [Get list of android images](#get-list-of-android-images)
-  - [DEBUG PROJECT](#debug-project)
-    - [Environnement variables](#environnement-variables-1)
-    - [Windows](#windows)
-    - [Kill process](#kill-process)
-    - [Cold boot](#cold-boot)
-    - [Restart android project](#restart-android-project)
-    - [Run android project on your device through expo](#run-android-project-on-your-device-through-expo)
-    - [Allow position sharing](#allow-position-sharing)
-    - [Fix issue with keyboard pushing up components](#fix-issue-with-keyboard-pushing-up-components)
+
+---
+## MyFamilyAgenda
+- Shared agenda app for android developed on react native  
+![alt text](MyAgenda/images/meteo.png)  
+![alt text](MyAgenda/images/character.png)
+
+---
 
 #### Prerequisites
 - node v17.8.0 or higher
